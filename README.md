@@ -1,2 +1,2 @@
 # Staj2021
-KübraNurAkdoğan-ATEZ2021 
+Kübra Nur Akdoğan-ATEZ2021
