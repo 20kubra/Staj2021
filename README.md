@@ -1,4 +1,2 @@
 # Staj2021
-KübraNurAkdoğan-ATEZ2021
-BRANCH İŞLEMİ YAPILDI.
-TEKRAR YAPILDI...
+KübraNurAkdoğan-ATEZ2021 
